@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "colors": "*",
-    "docular": "*"
+    "docular": "git+https://github.com/realizeapp/docular.git"
   },
   "keywords": [
     "gruntplugin", "angular", "angularjs", "documentation"
